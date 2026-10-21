@@ -15,7 +15,9 @@
 <p>
   <a href="https://github.com/AdonMazumder26?tab=repositories">Projects</a> •
   <a href="https://github.com/AdonMazumder26">GitHub</a> •
-  <a href="https://github.com/AdonMazumder26/abandoned-but-not-forgotten">Space project</a>
+  <a href="https://github.com/AdonMazumder26/abandoned-but-not-forgotten">Space project</a> •
+  <a href="https://ruhul-ma-ani-mazumder.netlify.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ruhul-ma-ani-mazumder-62553338a/">LinkedIn</a>
 </p>
 
 </div>
@@ -135,6 +137,7 @@ I enjoy building web applications, exploring how software systems fit together, 
       <p>
         <a href="https://github.com/AdonMazumder26/portfolio-client"><img src="https://img.shields.io/badge/VIEW%20SOURCE-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source code" /></a>
         <a href="https://github.com/AdonMazumder26/my-portfolio"><img src="https://img.shields.io/badge/RELATED%20REPO-111827?style=for-the-badge&logo=github&logoColor=white" alt="Related portfolio repository" /></a>
+        <a href="https://ruhul-ma-ani-mazumder.netlify.app/"><img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-14B8A6?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit live portfolio" /></a>
       </p>
       <sub>Focus: presenting projects clearly and building a professional online presence.</sub>
     </td>
@@ -196,11 +199,8 @@ Music is my other long-running project. I play guitar and percussion, enjoy sing
 
 <a href="https://github.com/AdonMazumder26"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
 <a href="https://github.com/AdonMazumder26?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20Repositories-0F766E?style=for-the-badge&logo=github" alt="Project repositories" /></a>
-
-<!-- Add your real public links when ready:
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
--->
+<a href="https://ruhul-ma-ani-mazumder.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-14B8A6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio website" /></a>
+<a href="https://www.linkedin.com/in/ruhul-ma-ani-mazumder-62553338a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 
 <br />
 
